@@ -18,4 +18,4 @@ An android application made to display live weather and air quality updates from
 *	API (ThingSpeak, openweathermaps)
 *	Multiple Layouts (Relative Layout, Scroll Layout, Constraint Layout)
 ## 
-*Made By Modadugu Surya Suhaas made for Google Supported SmartInternz Virtual Internship. 
+*Made By Modadugu Surya Suhaas made for Google Supported SmartInternz Virtual Internship*
