@@ -6,6 +6,10 @@ Virtual Internship - Android Application Development Using Kotlin
 ## If the project doesnt not work/build then go to the below Google Drive and download the directory there
 
 - https://drive.google.com/drive/folders/107zJVqUg3NMTGG7uDOAEsU9Qkif1kb0w?usp=sharing
+
+## Project Demonstration Link
+
+- https://youtu.be/-TbIufCy-mU
 ## Project Description:
 
 An android application made to display live weather and air quality updates from a NodeMCU (ESP8266) Wi-Fi module connected to a DHT11 (Temperature and Humidity Sensor), and a MQ135 (Air Quality Sensor) through ThingSpeak API in a simple and pleasant UI. It also displays other data like windspeed and temperature from openweathermaps API. The android application accesses the location data (i.e. Longitude and Latitude) of the mobile device and fetches the relevant data (i.e. Temperature, Sunrise time, Sunset time, Wind speed, Pressure) from the openweathermaps API in the background. The background color scheme is synced to weather conditions to provide quality user experience. 
